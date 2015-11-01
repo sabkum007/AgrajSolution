@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DLayer\bin\Debug\DLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DLayer\bin\Debug\DLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DLayer\bin\Debug\DataEntities.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DLayer\bin\Debug\DataEntities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DLayer\obj\Debug\DLayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DLayer\obj\Debug\DLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DLayer\obj\Debug\DLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DLayer\bin\Debug\DLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DLayer\bin\Debug\DLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DLayer\bin\Debug\DataEntities.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DLayer\bin\Debug\DataEntities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DLayer\obj\Debug\DLayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DLayer\obj\Debug\DLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DLayer\obj\Debug\DLayer.pdb

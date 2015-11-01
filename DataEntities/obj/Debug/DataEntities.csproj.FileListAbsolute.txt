@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DataEntities\bin\Debug\DataEntities.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DataEntities\bin\Debug\DataEntities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DataEntities\obj\Debug\DataEntities.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ChatApplication\DataEntities\obj\Debug\DataEntities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DataEntities\bin\Debug\DataEntities.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DataEntities\bin\Debug\DataEntities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DataEntities\obj\Debug\DataEntities.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DataEntities\obj\Debug\DataEntities.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AnalyticService\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
